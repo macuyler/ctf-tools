@@ -1,3 +1,6 @@
 [submodule "ghidra-dark"]
 	path = ghidra-dark
 	url = https://github.com/zackelia/ghidra-dark
+[submodule "pwndbg"]
+	path = pwndbg
+	url = https://github.com/pwndbg/pwndbg
