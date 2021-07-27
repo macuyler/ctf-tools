@@ -1,0 +1,3 @@
+[submodule "ghidra-dark"]
+	path = ghidra-dark
+	url = https://github.com/zackelia/ghidra-dark
