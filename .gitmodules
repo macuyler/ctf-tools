@@ -4,3 +4,6 @@
 [submodule "pwndbg"]
 	path = pwndbg
 	url = https://github.com/pwndbg/pwndbg
+[submodule "exploits/dump"]
+	path = exploits/dump
+	url = https://github.com/macuyler/dump
