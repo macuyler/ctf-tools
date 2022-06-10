@@ -4,6 +4,7 @@ This is a collection of tools that I use when playing CTFs!
 
 ## Tools
 
+ - **Dump**: A simple express app for dumping information from a remote host.
  - **Ghidra Dark**: A dark theme installer for [Ghidra](https://ghidra-sre.org/).
  - **PWNDBG**: A [GDB](https://www.gnu.org/software/gdb/) extension built for exploit development and reverse engineering.
 
